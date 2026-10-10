@@ -231,3 +231,10 @@ authors appear as `shauryah` and `madhu`.
 - Never use `git add -A` blindly without checking `git status` first. The
   `.gitignore` protects you, but it is worth confirming no large file has
   slipped in before you commit.
+
+## Contributors
+
+- **Madhu Bharathi** 
+- **Shauryah Annavel** 
+
+This project was developed collaboratively. The repository is maintained by Madhu Bharathi for portfolio and internship application purposes, with appropriate attribution to both contributors.
