@@ -33,9 +33,7 @@ be reproduced by re-running the code.
 git clone https://github.com/Shauryah24526/landvalue.git
 cd landvalue
 ```
-
-This is a **private** repository — you must be signed in as an invited
-collaborator for the clone to work.
+Clone the repository
 
 ### 2. Create the folder structure
 
